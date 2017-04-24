@@ -1,0 +1,43 @@
+/*
+	SET DE CORES:
+	AZUL 1: #1d22f4;
+	AZUL 2: #0b0d89;
+	"CINZA" 1: #d7d7ee;
+	"CINZA" 2: #b0b0d9;
+*/
+
+div {
+	padding: 20px 10px;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+span {
+	color: white;
+	font-weight: bold;
+}
+
+#site {
+	background-color: #1d22f4;
+}
+
+#header, #banner, #conteudo, #footer {
+	background-color: #0b0d89;
+}
+
+#logo, #menu, #comentario, #esquerdo, #direito, #copyright {
+	background-color: #d7d7ee;
+}
+
+.noticia {
+	background-color: #b0b0d9;
+}
+
+#direito table {
+	border: 1px solid black;
+}
+
+#direito table td, #direito table th {
+	border: 1px solid black;
+	padding: 10px;
+}

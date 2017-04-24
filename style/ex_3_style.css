@@ -1,0 +1,12 @@
+#presenca {
+	border-collapse: collapse;
+	margin-bottom: 50px;
+}
+#presenca td, th {
+	border: 1px solid black;
+	padding: 5px 10px;
+}
+
+.pres {
+	color: red;
+}
